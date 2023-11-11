@@ -1,4 +1,8 @@
-# INTRODUCTION TO ACADEMY  
+<h1 align="center">
+
+INTRODUCTION TO ACADEMY  
+
+</h1>
 
 ![image](https://github.com/AndreCoutinhom/htb_academy_intro/assets/91290799/0fc015af-c447-4deb-a10d-108ca7402933)
 
