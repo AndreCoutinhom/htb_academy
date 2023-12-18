@@ -1,11 +1,8 @@
 <h1 align="center">
 
-HTB ACADEMY  
+![image](https://github.com/AndreCoutinhom/htb_academy/assets/91290799/721996b6-4831-47f8-b3ba-77fb0ca215de)
 
 </h1>
-
-![image](https://github.com/AndreCoutinhom/htb_academy_intro/assets/91290799/0fc015af-c447-4deb-a10d-108ca7402933)
-
 
 ## Introduction
 
@@ -29,3 +26,6 @@ Modules always focus on specific topics or tools to help students enhance their 
 
 Modules are broken down into sections. These sections are the "meat" of the modules and contain the subject matter being taught, relevant command output, and hands-on exercises.
 
+## How the academy works
+
+![image](https://github.com/AndreCoutinhom/htb_academy/assets/91290799/bffa69df-e821-48b9-b41b-dd57beb8ee7d)
